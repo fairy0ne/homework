@@ -1,0 +1,23 @@
+table {
+  font-family: sans-serif;
+  border-collapse: collapse;
+}
+
+caption {
+  border: 1px solid black;
+  border-bottom: none;
+}
+
+thead,
+caption {
+  font-size: large;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+.red {
+  color: red;
+}
